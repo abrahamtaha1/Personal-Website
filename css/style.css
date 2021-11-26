@@ -236,14 +236,13 @@ header .navbar ul li a:hover{
 .education .box-container{
     display: flex;
     align-items: center;
-    justify-content: space-between;
     flex-wrap: wrap;
     padding:1rem 0;
     padding-left: 3rem;
 }
 
 .education .box-container .box{
-    width:27rem;
+    width:40rem;
     margin:4rem 1rem;
     padding-left: 4rem;
     border-left: .2rem solid #fff;
@@ -275,7 +274,7 @@ header .navbar ul li a:hover{
     top:-1.5rem; left:-2.5rem;
     height:5rem;
     width: 5rem;
-    border-radius: 50%;
+    border-radius: 100%;
     line-height: 5rem;
     text-align: center;
     font-size: 2rem;
